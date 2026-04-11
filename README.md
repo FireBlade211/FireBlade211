@@ -4,7 +4,7 @@
   <tr>
     <td width="50%">
       <h3>↗️ <a href="https://github.com/FireBlade211">Windows Dialog Box Generator</a> </h3>
-      <p>Allows generating and exporting message boxes, task dialogs, and common dialogs (and yes, that includes exporting task dialogs).</p>
+      <p>Allows generating and exporting message boxes, task dialogs, and common dialogs.</p>
       <p><code>C#</code></p>
     </td>
     <td width="50%">
