@@ -25,4 +25,16 @@
       <p><code>C#</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔧 <a href="https://github.com/FireBlade211/System-Manager">System Manager</a></h3>
+      <p>System Manager is an extensible tool that brings Windows utilities together in one place and lets you install plugins to add more tools.</p>
+      <p><code>C#</code></p>
+    </td>
+    <td width="50%">
+      <h3>📋 <a href="https://github.com/FireBlade211/ClipboardEdit">ClipboardEdit</a></h3>
+      <p>A utility that allows you to view and edit the Windows clipboard.</p>
+      <p><code>C#</code></p>
+    </td>
+  </tr>
 </table>
